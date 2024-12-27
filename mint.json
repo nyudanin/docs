@@ -22,10 +22,12 @@
       "url": "mailto:hi@mintlify.com"
     }
   ],
-  "topbarCtaButton": {
+  "topbarCtaButton": [
+    {
     "name": "Get Started",
     "url": "https://form.feathery.io/to/CNgDwH#work-email"
-  },
+    }
+  ],
   "tabs": [
     {
       "name": "API Reference",
