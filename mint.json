@@ -7,9 +7,10 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#A96AFA",
+    "light": "#A96AFA",
+    "dark": "#A96AFA"
+  },
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -22,8 +23,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Get Started",
+    "url": "https://form.feathery.io/to/CNgDwH#work-email"
   },
   "tabs": [
     {
@@ -84,8 +85,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "linkedin": "https://linkedin.com/company/tennrai"
   }
 }
