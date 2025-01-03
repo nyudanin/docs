@@ -33,8 +33,9 @@
       "group": "Introduction",
       "pages": [
         "introduction",
-        "introduction/overview",
-        "introduction/architecture"
+        "overview",
+        "quickstart",
+        "development"
       ]
     },
     {
