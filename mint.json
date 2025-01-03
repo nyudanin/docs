@@ -28,22 +28,55 @@
       "url": "api-components"
     }
   ],
-  "navigation": [
+"sidebar": [
     {
-      "group": "Getting Started",
-      "pages": ["introduction", "quickstart"]
+      "title": "Introduction",
+      "items": [
+        "introduction/overview",
+        "introduction/architecture"
+      ]
     },
     {
-      "group": "API Components",
-      "pages": ["api-playground/overview", "api-playground/configuration"]
+      "title": "Modules",
+      "items": [
+        "modules/document-wrangling",
+        "modules/intake",
+        "modules/eligibility",
+        "modules/qualifications",
+        "modules/communication"
+      ]
     },
     {
-      "group": "Settings",
-      "pages": ["settings/global", "settings/page"]
+      "title": "API",
+      "items": [
+        "api/authentication",
+        {
+          "title": "Endpoints",
+          "items": [
+            "api/endpoints/document",
+            "api/endpoints/intake",
+            "api/endpoints/eligibility",
+            "api/endpoints/qualifications",
+            "api/endpoints/communication"
+          ]
+        }
+      ]
     },
     {
-      "group": "Analytics",
-      "pages": ["analytics/posthog"]
+      "title": "Integrations",
+      "items": [
+        "integrations/ehr",
+        "integrations/billing-systems",
+        "integrations/crms"
+      ]
+    },
+    {
+      "title": "Troubleshooting",
+      "items": ["troubleshooting/common-issues"]
+    },
+    {
+      "title": "Support",
+      "items": ["support/contact"]
     }
   ],
   "footerSocials": {
