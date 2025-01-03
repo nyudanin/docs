@@ -1,10 +1,9 @@
 {
   "name": "Mintlify",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/Full.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#16A34A",
     "light": "#4ADE80",
