@@ -12,8 +12,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Contact Us",
-      "url": "mailto:support@mintlify.com"
+      "name": "Visit Tennr",
+      "url": "https://www.tennr.com/"
     }
   ],
   "topbarCtaButton": {
@@ -53,9 +53,8 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/mintlify",
-    "slack": "https://mintlify.com/community",
-    "x": "https://x.com/mintlify"
+    "github": "https://github.com/Tennr-Inc",
+    "linkedin": "https://www.linkedin.com/company/tennrai"
   },
   "integrations": {
     "intercom": "APP_ID",
