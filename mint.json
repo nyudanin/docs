@@ -12,13 +12,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Visit Tennr",
+      "name": "Learn More",
       "url": "https://www.tennr.com/"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://mintlify.com/start"
+    "name": "Book a Demo",
+    "url": "https://www.tennr.com/demo"
   },
   "anchors": [
     {
