@@ -28,17 +28,17 @@
       "url": "api-components"
     }
   ],
-"sidebar": [
+"navigation": [
     {
-      "title": "Introduction",
-      "items": [
+      "group": "Introduction",
+      "pages": [
         "introduction/overview",
         "introduction/architecture"
       ]
     },
     {
-      "title": "SKUs",
-      "items": [
+      "group": "SKUs",
+      "pages": [
         "sku/document-wrangling",
         "sku/intake",
         "sku/eligibility",
@@ -47,20 +47,20 @@
       ]
     },
     {
-      "title": "Integrations",
-      "items": [
+      "group": "Integrations",
+      "pages": [
         "integrations/ehrs",
         "integrations/billing",
         "integrations/crms"
       ]
     },
     {
-      "title": "Troubleshooting",
-      "items": ["troubleshooting/common-issues"]
+      "group": "Troubleshooting",
+      "pages": ["troubleshooting/common-issues"]
     },
     {
-      "title": "Support",
-      "items": ["support/contact"]
+      "group": "Support",
+      "pages": ["support/contact"]
     }
   ],
   "footerSocials": {
