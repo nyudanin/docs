@@ -1,7 +1,8 @@
 {
-  "name": "Mintlify",
+  "name": "Tennr",
   "logo": {
-    "light": "/logo/full.svg"
+    "light": "/logo/full.svg",
+    "dark": "/logo/full.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
