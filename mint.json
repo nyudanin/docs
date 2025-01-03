@@ -37,36 +37,20 @@
       ]
     },
     {
-      "title": "Modules",
+      "title": "SKUs",
       "items": [
-        "modules/document-wrangling",
-        "modules/intake",
-        "modules/eligibility",
-        "modules/qualifications",
-        "modules/communication"
-      ]
-    },
-    {
-      "title": "API",
-      "items": [
-        "api/authentication",
-        {
-          "title": "Endpoints",
-          "items": [
-            "api/endpoints/document",
-            "api/endpoints/intake",
-            "api/endpoints/eligibility",
-            "api/endpoints/qualifications",
-            "api/endpoints/communication"
-          ]
-        }
+        "sku/document-wrangling",
+        "sku/intake",
+        "sku/eligibility",
+        "sku/qualifications",
+        "sku/communication"
       ]
     },
     {
       "title": "Integrations",
       "items": [
-        "integrations/ehr",
-        "integrations/billing-systems",
+        "integrations/ehrs",
+        "integrations/billing",
         "integrations/crms"
       ]
     },
@@ -82,9 +66,5 @@
   "footerSocials": {
     "github": "https://github.com/Tennr-Inc",
     "linkedin": "https://www.linkedin.com/company/tennrai"
-  },
-  "integrations": {
-    "intercom": "APP_ID",
-    "frontchat": "CHAT_ID"
   }
 }
