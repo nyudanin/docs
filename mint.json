@@ -26,12 +26,6 @@
       "icon": "rectangle-terminal",
       "color": "#f59f0b",
       "url": "api-components"
-    },
-    {
-      "name": "Community",
-      "icon": "comments",
-      "color": "#2564eb",
-      "url": "https://mintlify.com/community"
     }
   ],
   "navigation": [
